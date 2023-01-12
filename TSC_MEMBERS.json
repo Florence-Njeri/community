@@ -457,5 +457,14 @@
 		"repos": [
 			"bindings"
 		]
+	},
+	{
+		"name": "Florence Njeri",
+		"github": "Florence-Njeri",
+		"linkedin": "florencenjeri",
+		"availableForHire": true,
+		"repos": [
+			"generator"
+		]
 	}
 ]
